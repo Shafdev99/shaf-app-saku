@@ -1,2 +1,2 @@
-# shaf-app-saku
+# Shaf Saku
 Projek sistem informasi akademik sekolah
